@@ -3,7 +3,7 @@
 
 dev.js
 
-
+ffmpeg-5.1.1-full_build/
 
 .DS_Store
 
@@ -12,3 +12,4 @@ yarn-debug.kog*
 yarn-error.log*
 
 .vscode
+
